@@ -4,3 +4,5 @@ numpy==2.4.1
 pandas==2.3.3
 streamlit==1.54.0
 streamlit_folium==0.26.1
+lightgbm==4.6.0
+scikit-learn==1.7.1
